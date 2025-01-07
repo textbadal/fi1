@@ -90,13 +90,7 @@ function App() {
     <i className="fab fa-whatsapp"></i> {/* FontAwesome WhatsApp icon */}
   </a>
 
-  {/* Call Now Button */}
-  <a
-    href="tel:+919304245362"
-    className="call-now-button"
-  >
-    <button className="call-button">Call Now</button>
-  </a>
+ 
 </div>
 
 
